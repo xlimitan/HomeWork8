@@ -18,7 +18,7 @@ public class Main {
 
         for (int i = 0; i < one.length; i++) {
             System.out.print(one[i]);
-            if (i != one.length - 1) {
+            if (i != one.length -1) {
                 System.out.print(", ");
             }
         }
